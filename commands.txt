@@ -1,0 +1,45 @@
+1.for install react project : npx create-react-app@next --scripts-version=@next --template=cra-template@next ./
+
+2.For installing Tailwind CSS : https://tailwindcss.com/docs/guides/create-react-app
+
+3. copy the tailwind.config.js file from : https://github.com/adrianhajdin/project_shareme_social_media/blob/main/frontend_sanity/
+
+4. Run the Command : npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uui 
+
+5. after 4 run this command : npm config set legacy-peer-deps true
+
+6. For google client id go here : https://console.cloud.google.com/
+  google console client id appname: share_me
+                           support email: sunibnsazzad@gmail.com
+7. client.js file code: REACT_APP_GOOGLE_API_TOKEN =776773432693-95unnogh33jbokntps0kg0gpl5e9hu1b.apps.googleusercontent.com
+
+REACT_APP_SANITY_PROJECT_ID = opo7arbn
+
+REACT_APP_SANITY_TOKEN = skZNsxnmTsTyUwUMdNRGPT7Zxefy4Rm6hXCjTGXpOI5o7ljgTL7YU7G7jqKVcKYZ4D5xFtK1FnB8lqkeF44Eh0xwvHGkrqZvr15TIvZ7zFVCkhDhmxGO17FIMSaXq7zE8lEc47VkgcGJyfiT9XCfdfrcLhKObSeSLzPM4Mxez7RAVRNoR36f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
